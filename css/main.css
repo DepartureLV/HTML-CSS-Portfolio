@@ -49,7 +49,7 @@ a:hover {
     background-size: cover;
     background-position: bottom right;
     min-height: 100vh;
-    padding: 100px 150px 0px 150px;
+    padding: 100px 150px 50px 150px;
 }
 
 @media screen and (max-width:768px) {
